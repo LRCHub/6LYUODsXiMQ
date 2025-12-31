@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "優等生",
+  "base_artist": "shino",
+  "createdAt": "2025-12-31T12:49:58.472293Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "優等生",
+      "artist": "スガシカオ",
+      "has_synced": false,
+      "path": "select/01_優等生_スガシカオ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "優等生",
+      "artist": "MONOGATARI Series",
+      "has_synced": false,
+      "path": "select/02_優等生_MONOGATARI_Series.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "優等生",
+      "artist": "物語シリーズ",
+      "has_synced": false,
+      "path": "select/03_優等生_物語シリーズ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "だって、優等生 - なるみや",
+      "artist": "Narumiya",
+      "has_synced": true,
+      "path": "select/04_だって、優等生_-_なるみや_Narumiya.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "優等生",
+      "artist": "〈物語〉シリーズ",
+      "has_synced": false,
+      "path": "select/05_優等生_〈物語〉シリーズ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "だって、優等生 (Paused)",
+      "artist": "なるみや",
+      "has_synced": true,
+      "path": "select/06_だって、優等生_(Paused)_なるみや.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "だって、優等生",
+      "artist": "なるみや",
+      "has_synced": true,
+      "path": "select/07_だって、優等生_なるみや.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "優等生 (feat. 初音ミク)",
+      "artist": "SHINO",
+      "has_synced": false,
+      "path": "select/pl_01_優等生_(feat._初音ミク)_SHINO.txt"
+    }
+  ]
+}
